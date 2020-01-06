@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:StickerWPF">
+    <SolidColorBrush x:Key="defaultForeground" Color="#000000"/>
+    <SolidColorBrush x:Key="tbForeground" Color="#000000"/>
+    <SolidColorBrush x:Key="btnForeground" Color="#000000"/>
+    <SolidColorBrush x:Key="tbBackground" Color="#D3D5F5"/>
+    <SolidColorBrush x:Key="rtbBackground" Color="#AAAEEB"/>
+    <SolidColorBrush x:Key="wndBackground" Color="#8389E0"/>
+    <SolidColorBrush x:Key="btnBackground" Color="#8389E0"/>
+    <SolidColorBrush x:Key="cmbBackground" Color="#8389E0"/>
+    <SolidColorBrush x:Key="tbSelectionBrush" Color="#232B99"/>
+    <SolidColorBrush x:Key="rtbSelectionBrush" Color="#232B99"/>
+    <SolidColorBrush x:Key="cmbBorderBrush" Color="#232B99"/>
+    <SolidColorBrush x:Key="btnMouseover" Color="#232B99"/>    
+</ResourceDictionary>
